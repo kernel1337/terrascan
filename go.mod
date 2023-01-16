@@ -13,7 +13,7 @@ replace (
 )
 
 require (
-	cloud.google.com/go v0.105.0 // indirect
+	cloud.google.com/go v0.107.0 // indirect
 	github.com/Azure/azure-sdk-for-go v56.3.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
@@ -72,7 +72,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/containeranalysis v0.6.0
+	cloud.google.com/go/containeranalysis v0.7.0
 	github.com/apparentlymart/go-versions v1.0.1
 	github.com/awslabs/goformation/v7 v7.0.5
 )
